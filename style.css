@@ -32,6 +32,9 @@ p{
     margin-bottom: 20px;
     width: 100%;
 }
+.site-nav>img{
+    width:90px;
+}
 .site-ul{
     border-bottom: 2px solid #ccc;
     display:inline-block;
